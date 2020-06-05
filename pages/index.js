@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          Deployment test project to <a href="https://vercel.com/">Vercel</a>! :)
+          Deployment test project! :)
         </p>
 
         <div className="grid">
